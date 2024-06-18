@@ -1,0 +1,1 @@
+IncludeDirs["imgui"] = "%{wks.location}/bakara/vendor/imgui"
