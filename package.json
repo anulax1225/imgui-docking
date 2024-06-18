@@ -1,0 +1,14 @@
+{
+    "name": "ImGui",
+    "author": "anulax1225",
+    "git": "https://github.com/anulax1225/imgui",
+    "links": 
+    [
+        "ImGui"
+    ],
+    "includes": 
+    [
+        "imgui"
+    ],
+    "packages":[]
+}
