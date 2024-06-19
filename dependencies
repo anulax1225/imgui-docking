@@ -1,1 +1,1 @@
-IncludeDirs["imgui"] = "%{wks.location}/bakara/vendor/imgui"
+IncludeDirs["imgui"] = "%{wks.location}/vendor/imgui"
