@@ -1,14 +1,14 @@
 {
-    "name": "ImGui",
+    "name": "ImGuiDocking",
     "author": "anulax1225",
-    "git": "https://github.com/anulax1225/imgui",
+    "git": "https://github.com/anulax1225/imgui-docking",
     "links": 
     [
-        "ImGui"
+        "ImGuiDocking"
     ],
     "includes": 
     [
-        "imgui"
+        "imgui-docking"
     ],
     "packages":[]
 }

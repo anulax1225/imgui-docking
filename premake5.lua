@@ -1,4 +1,4 @@
-project "ImGui"
+project "ImGuiDocking"
 	kind "StaticLib"
 	language "C++"
 	systemversion "latest"
